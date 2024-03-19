@@ -13,6 +13,7 @@ public class Metodos {
 	//Cuando no hace falta devolver algo
 	public static void metodo2 (String dato) {
 		System.out.println(dato + dato);
+		//prueba ramas
 	}
 	
 	
